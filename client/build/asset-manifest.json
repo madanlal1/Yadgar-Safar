@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d426cd5.css",
+    "main.js": "/static/js/main.7fea4a05.js",
+    "static/media/mosque.jpg": "/static/media/mosque.104e32c967b7e82923ab.jpg",
+    "static/media/ranikot.jpeg": "/static/media/ranikot.b50bb60166fb49ecacf9.jpeg",
+    "static/media/Islamabad.jpg": "/static/media/Islamabad.0cb2cb383985d435d024.jpg",
+    "static/media/quaidMazar.jpg": "/static/media/quaidMazar.4f23a5bd040e9ad8970e.jpg",
+    "static/media/lahore.jpg": "/static/media/lahore.cbe9e555084eb637065e.jpg",
+    "static/media/islamabad.jpg": "/static/media/islamabad.2ee932b2cddcb9377753.jpg",
+    "static/media/madan.JPG": "/static/media/madan.b745e30143c3a000f8fb.JPG",
+    "static/media/mountain.jpg": "/static/media/mountain.2c2df45997ee2736a0e2.jpg",
+    "static/media/madan.png": "/static/media/madan.397445601896fce76d53.png",
+    "static/media/gorakhHill.jpeg": "/static/media/gorakhHill.fa781ac34202678dda3a.jpeg",
+    "static/media/safdar.png": "/static/media/safdar.ef638aaa984617d6dc69.png",
+    "static/media/quetta.jpg": "/static/media/quetta.06e72218aa791fe8f8de.jpg",
+    "static/media/khaberPass.jpg": "/static/media/khaberPass.fe7a471401c5112c5aba.jpg",
+    "static/media/gilgitBaltistan.jpg": "/static/media/gilgitBaltistan.9d789eecd235f3f21380.jpg",
+    "static/media/minarEpakistan.jpg": "/static/media/minarEpakistan.c0d8d317c212a318775c.jpg",
+    "static/media/umerkotFort.jpeg": "/static/media/umerkotFort.b6d2401f1c2c533a61e9.jpeg",
+    "static/media/wahiba.jpg": "/static/media/wahiba.0d8cc0c3d97e65473488.jpg",
+    "static/media/adventureTour.png": "/static/media/adventureTour.06eaf7a28bfbf7981328.png",
+    "static/media/groupTour.jpg": "/static/media/groupTour.f58fffcdfa563e79f6be.jpg",
+    "static/media/pageNotFound.jpg": "/static/media/pageNotFound.667fe8220fa6071d0600.jpg",
+    "static/media/service24.png": "/static/media/service24.acc466e5b0d667625d8d.png",
+    "static/media/logo2.png": "/static/media/logo2.7af65d6df78715235c66.png",
+    "static/media/privateTour.jpg": "/static/media/privateTour.ce93336768cc5821da43.jpg",
+    "static/media/footerImgPng.png": "/static/media/footerImgPng.f40a15b35f290baba4fb.png",
+    "static/media/logo.png": "/static/media/logo.ee059a06b9cfabeaac84.png",
+    "index.html": "/index.html",
+    "main.8d426cd5.css.map": "/static/css/main.8d426cd5.css.map",
+    "main.7fea4a05.js.map": "/static/js/main.7fea4a05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d426cd5.css",
+    "static/js/main.7fea4a05.js"
+  ]
+}
